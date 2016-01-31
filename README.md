@@ -33,7 +33,7 @@ $csv->output('users.csv');
 ## Testing
 
 ``` bash
-$ phpunit vendor/egyg33k/csv-bundle
+$ phpunit
 ```
 
 ## Security
