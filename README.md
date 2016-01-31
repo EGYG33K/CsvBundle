@@ -4,7 +4,7 @@
 [![Build Status][ico-travis]][link-travis]
 
 
-This bundle is integrate for League/Csv in Symfony
+This bundle is integration for League/Csv in Symfony
 
 ## System Requirements
 
