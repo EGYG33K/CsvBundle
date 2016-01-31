@@ -6,6 +6,10 @@
 
 This bundle is integrate for League/Csv in Symfony
 
+## System Requirements
+
+You need **PHP >= 5.5.0**
+
 ## Install
 
 Via Composer
