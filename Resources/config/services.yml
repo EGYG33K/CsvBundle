@@ -1,0 +1,5 @@
+services:
+    egyg33k.csv.reader:
+        class: Egyg33k\CsvBundle\Services\Reader
+    egyg33k.csv.writer:
+        class: Egyg33k\CsvBundle\Services\Writer

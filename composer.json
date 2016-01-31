@@ -1,0 +1,29 @@
+{
+	"name" : "egyg33k/csv-bundle",
+	"description" : "Integration of League CSV into Symfony",
+	"keywords" : [
+		"csv"
+	],
+	"type" : "symfony-bundle",
+	"homepage" : "https://github.com/EGYG33K/CsvBundle",
+	"require" : {
+		"php" : ">=5.5.9",
+		"symfony/framework-bundle" : ">=2.0.0-stable",
+		"league/csv" : ">=5.0.0-stable"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "~4.5"
+	},
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Amr Samy",
+			"email" : "me@amrsamy.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"autoload" : {
+		"psr-4" : {
+			"Egyg33k\\CsvBundle\\" : ""
+		}
+	}
+}
