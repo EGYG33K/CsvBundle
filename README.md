@@ -8,7 +8,7 @@ This bundle is integrate for League/Csv in Symfony
 
 ## System Requirements
 
-You need **PHP >= 5.5.0**
+You need **PHP >= 5.5.0** and the mbstring extension to use Csv but the latest stable version of PHP/HHVM is recommended.
 
 ## Install
 
