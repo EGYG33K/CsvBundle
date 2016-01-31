@@ -2,6 +2,8 @@
 
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
+[![Total Downloads](https://poser.pugx.org/egyg33k/csv-bundle/downloads)](https://packagist.org/packages/egyg33k/csv-bundle)
+[![Latest Stable Version](https://poser.pugx.org/egyg33k/csv-bundle/v/stable)](https://packagist.org/packages/egyg33k/csv-bundle)
 
 
 This bundle is integration for League/Csv in Symfony
