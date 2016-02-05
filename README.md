@@ -24,6 +24,8 @@ $ composer require egyg33k/csv-bundle
 ## Usage
 
 ``` php
+// Add this line to your AppKernel.php new Egyg33k\CsvBundle\Egyg33kCsvBundle(),
+// Then you can use it as following
 # Reader
 $reader = $this->container->get('egyg33k.csv.reader');
 $csv = $reader::createFromPath('/home/egyg33k/Desktop/org.csv');
